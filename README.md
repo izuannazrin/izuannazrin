@@ -21,3 +21,8 @@ For inquiry about this organism or anything related,
 you can reach the developer through:
 - [E-mail](mailto:zerro.tur@gmail.com)
 - GitHub private message
+Or if you want to point out or report bugs and issues
+on this organism, open a new issue on this repository!
+
+
+As Pekora said, AH↗️HA↘️HA↗️
