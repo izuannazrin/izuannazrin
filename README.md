@@ -15,6 +15,8 @@ In programming world, this organism is capable in:
 - (partially) Java
 - PHP
 - (partially) JavaScript
+However, user interface design is not in its blood,
+much talent in backend instead of frontend.
 
 ## Contact info
 For inquiry about this organism or anything related,
@@ -25,4 +27,4 @@ Or if you want to point out or report bugs and issues
 on this organism, open a new issue on this repository!
 
 
-As Pekora said, AH↗️HA↘️HA↗️
+That's all. Ciao!
