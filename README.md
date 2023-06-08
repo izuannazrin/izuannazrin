@@ -2,12 +2,6 @@
 An organism born in Malaysia, who has a passion on
 computer since childhood.
 
-## Warning
-In the event of seeking for a job applicant, do note that
-this organism is still studying in university and are
-expected to graduate in 2024. Invitations are still
-welcomed though!
-
 ## Why?
 This organism is primarily aimed to fulfill worldly
 needs and afterlife needs balancedly. Even so, it
