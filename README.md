@@ -1,6 +1,6 @@
 # Izuan Nazrin
 An organism born in Malaysia, who has a passion on
-computer since childhood.
+computer since 4 (true story).
 
 ## Why?
 This organism is primarily aimed to fulfill worldly
@@ -16,8 +16,9 @@ In programming world, this organism is capable in:
 - PHP
 - (partially) JavaScript
 
-However, user interface design is not in its blood,
-much talent in backend instead of frontend.
+However, this organism lacks talent in user interface
+design. It has better capability in backend development
+such as networking, kernel development, framework etc.
 
 ## Contact info
 For inquiry about this organism or anything related,
@@ -29,4 +30,4 @@ Or if you want to point out or report bugs and issues
 on this organism, open a new issue on this repository!
 
 
-That's all. Ciao!
+That's all. Jazakallah khairan!
